@@ -20,7 +20,6 @@ public class Principal {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-    
         Asignatura a= new Asignatura();
         a.establecer_creditos("(10créditos)");
         Asignatura a1=new Asignatura();
